@@ -54,6 +54,22 @@ footer{
   text-align: center;
 }
 
+a:link {
+  color: #fff;
+}
+
+a:visited {
+  color: #2E39B3;
+}
+
+a:hover {
+  color: #B5CFFF;
+}
+
+a:active {
+  color:#B5CFFF;
+}
+
 
 @media screen and (max-width: 1250px) {
 
