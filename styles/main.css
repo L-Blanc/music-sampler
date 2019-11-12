@@ -40,6 +40,7 @@ h1{
 }
 #cap{
   font-family: 'Roboto Condensed', 'Fjalla One', 'Oswald',  sans-serif;
+  font-size: .8rem;
 }
 #para{
   font-family: 'Roboto Condensed', 'Fjalla One', 'Oswald',  sans-serif;
@@ -71,7 +72,7 @@ a:active {
 }
 
 
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 380px) {
 
 #contanier{
   align-items: center;
@@ -106,5 +107,6 @@ align-items: center;
 
 #cap{
   padding: 0;
-  font-size: .5rem;
+  font-size: .7rem;
+  max-width: 85%;
 }
